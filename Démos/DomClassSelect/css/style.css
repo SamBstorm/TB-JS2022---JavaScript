@@ -1,0 +1,9 @@
+td>div{
+    min-width: 32px ;
+    min-height: 32px ;
+    border: 1px solid black;
+}
+
+.selected{
+    background-color: #4488AA;
+}
